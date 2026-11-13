@@ -1,0 +1,5 @@
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+psycopg[binary]>=3.2,<4
+ijson>=3.3,<4
+simplejson>=3.20,<4
