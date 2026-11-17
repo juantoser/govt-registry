@@ -3,3 +3,8 @@ uvicorn>=0.34,<1
 psycopg[binary]>=3.2,<4
 ijson>=3.3,<4
 simplejson>=3.20,<4
+agent-framework-core==1.26.0
+agent-framework-openai==1.18.2
+azure-identity>=1.25,<2
+httpx>=0.28,<1
+python-dotenv>=1,<2
